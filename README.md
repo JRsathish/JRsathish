@@ -24,6 +24,8 @@
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?logo=apache&logoColor=white)
 ![POM](https://img.shields.io/badge/Page%20Object%20Model-000000?logo=java&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apache-maven&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-blue)
 ![Agile](https://img.shields.io/badge/Agile-28A745?logo=agile&logoColor=white)
 ![SDLC](https://img.shields.io/badge/SDLC-FF5733)
@@ -33,9 +35,10 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JRsathish&show_icons=true&theme=radical&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=JRsathish&theme=radical&hide_border=true)
-![Custom Top Languages](https://img.shields.io/badge/Java-60%25-blue?style=for-the-badge&logo=java)
-![Custom Top Languages](https://img.shields.io/badge/HTML-20%25-orange?style=for-the-badge&logo=html5)
-![Custom Top Languages](https://img.shields.io/badge/JavaScript-10%25-yellow?style=for-the-badge&logo=javascript)
+
+![Top Languages](https://img.shields.io/badge/Java-60%25-blue?style=for-the-badge&logo=java)
+![Top Languages](https://img.shields.io/badge/HTML-20%25-orange?style=for-the-badge&logo=html5)
+![Top Languages](https://img.shields.io/badge/JavaScript-10%25-yellow?style=for-the-badge&logo=javascript)
 
 ---
 
