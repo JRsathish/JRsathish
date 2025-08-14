@@ -33,7 +33,9 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JRsathish&show_icons=true&theme=radical&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=JRsathish&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JRsathish&layout=compact&langs_count=5&hide=html,css,python,javascript&theme=radical)
+![Custom Top Languages](https://img.shields.io/badge/Java-60%25-blue?style=for-the-badge&logo=java)
+![Custom Top Languages](https://img.shields.io/badge/HTML-20%25-orange?style=for-the-badge&logo=html5)
+![Custom Top Languages](https://img.shields.io/badge/JavaScript-10%25-yellow?style=for-the-badge&logo=javascript)
 
 ---
 
