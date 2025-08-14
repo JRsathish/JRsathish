@@ -33,7 +33,7 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JRsathish&show_icons=true&theme=radical&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=JRsathish&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JRsathish&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JRsathish&layout=compact&langs_count=5&hide=html,css,python,javascript&theme=radical)
 
 ---
 
